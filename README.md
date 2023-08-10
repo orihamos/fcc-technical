@@ -1,15 +1,17 @@
 # FCC Technical Page Project
 
-Freecodecamp's technical project from: 
-https://www.freecodecamp.org/learn/2022/responsive-web-design/build-a-technical-documentation-page-project/build-a-technical-documentation-page
+This project showcases a technical documentation page for FreeCodeCamp (FCC). It includes sections with content and code samples related to different topics.
 
 ## Table of Contents
 
-- [Section 1: anyid]
-- [Section 2: anyid2]
-- [Section 3: anyid3]
-- [Section 4: anyid4]
-- [Section 5: anyid5]
+- [FCC Technical Page Project](#fcc-technical-page-project)
+  - [Table of Contents](#table-of-contents)
+  - [Sections](#sections)
+    - [Section 1: anyid](#section-1-anyid)
+    - [Section 2: anyid2](#section-2-anyid2)
+    - [Section 3: anyid3](#section-3-anyid3)
+    - [Section 4: anyid4](#section-4-anyid4)
+    - [Section 5: anyid5](#section-5-anyid5)
 
 ## Sections
 
