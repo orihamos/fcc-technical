@@ -1,5 +1,12 @@
 /* Reset some default styles */
-body, h1, h2, h3, p, ul, li, code {
+body,
+h1,
+h2,
+h3,
+p,
+ul,
+li,
+code {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -60,28 +67,28 @@ body {
 /* Responsive Styles */
 @media screen and (max-width: 768px) {
   #navbar {
-      width: 100%;
-      position: relative;
-      padding: 20px 0;
+    width: 100%;
+    position: relative;
+    padding: 20px 0;
   }
 
   #navbar ul {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
   }
 
   .nav-link {
-      margin: 5px 0;
+    margin: 5px 0;
   }
 
   #main-doc {
-      margin: 0;
-      padding: 20px;
+    margin: 0;
+    padding: 20px;
   }
 
   .main-section {
-      padding: 15px;
-      margin-bottom: 15px;
+    padding: 15px;
+    margin-bottom: 15px;
   }
 }
